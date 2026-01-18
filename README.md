@@ -36,9 +36,8 @@ Each folder contains simple and easy-to-understand C++ programs demonstrating th
 - To serve as a **quick revision resource**
 
 ---
+⭐ Support
 
-## ▶ How to Run the Programs
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+- If you find this repository helpful:
+- Give it a ⭐
+- Share it with your friends
