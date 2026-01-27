@@ -25,7 +25,7 @@ Each folder contains simple and easy-to-understand C++ programs demonstrating th
 
 - **Language:** C++
 - **Compiler:** GCC / any standard C++ compiler
-- **Editor:** VS Code (recommended)
+- **Editor:**Online C++ Compiler, VS Code (recommended)
 
 ---
 
